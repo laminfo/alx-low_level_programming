@@ -1,7 +1,8 @@
 #include <stdio.h>
 /*
- * main function for execute
- *  return 0 if true
+ * main - this is the main function
+ *
+ *  return: 0 when successfull
  */
 int main(void)
 {
