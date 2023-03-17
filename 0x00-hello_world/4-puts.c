@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
  * main - this is the main function
- *
+ * puts diplay and writ string
  *  return: 0 when successfull
  */
 int main(void)
