@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- *main : for execute program 
- *
- *returen: if condition is realizeble
+ *main():function execute program 
+ *printf for display message
+ *return 0: if condition is realizeble
  *
  */
 int main(void)
